@@ -1,0 +1,17 @@
+# Roblox
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 rbxcdn.com
+0.0.0.0 rbxusercontent.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 apis.roblox.com
+
+# Steam
+0.0.0.0 steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 steamstatic.com
+0.0.0.0 steamcontent.com
+
+# Epic
+0.0.0.0 epicgames.com
+0.0.0.0 launcher-public-service-prod06.ol.epicgames.com
