@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mangcom/dnslist/refs/heads/main/game.txt
+https://big.oisd.nl/domainswild2
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://badmojr.github.io/1Hosts/Pro/domains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
+https://github.com/topics/roblox-blocklist
